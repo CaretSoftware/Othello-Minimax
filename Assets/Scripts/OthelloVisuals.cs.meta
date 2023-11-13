@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4bc963ac8e90943b787c0f2a36252c1c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - greenSquare: {fileID: 7881062318056779592, guid: d45d176ac6a0a4d30b0c1ef994636d25, type: 3}
+  - whiteSquare: {fileID: 7881062318056779592, guid: f9d4769e0e7c2442a95f16e1fadefe33, type: 3}
+  - blackSquare: {fileID: 7881062318056779592, guid: d0f03937f7b8343aca4986b475737183, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
