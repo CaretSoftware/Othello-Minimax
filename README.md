@@ -10,6 +10,7 @@ Othello
   - [Prerequisites](#prerequisites)
   - [Instructions](#instructions)
   - [Rules](#rules)
+  - [Strategy](#strategy)
   - [License](#license)
   - [Contact](#contact)
 
@@ -39,13 +40,15 @@ Objective is to have the majority of discs with your color facing up at the end 
 
 ## Rules
 
-White makes first move.*
-The opponents discs is flipped if outflanked by two other players discs. 
-Valid Disc placement is that it must flip at least one of the opponents discs.
-If no valid move the turn goes to the opponent.
-If neither player has valid moves the game is over.
-If all discs are placed or there is no more valid placements the game is over.
-Strategy:
+White makes first move.*  
+The opponents discs is flipped if outflanked by two other players discs.  
+Valid Disc placement is that it must flip at least one of the opponents discs.  
+If no valid move the turn goes to the opponent.  
+If neither player has valid moves the game is over.  
+If all discs are placed or there is no more valid placements the game is over.  
+
+## Strategy:  
+
 Don't be fooled about how seemingly badly the AI plays in the beginning.
 It's playing 10 moves ahead and choosing the move that's optimal later as opposed to good now. The board state in a game of Othello can flip quickly, literally.
 Aim to place your discs in the corners! Corners can never be flipped and are therefore very valuable.
