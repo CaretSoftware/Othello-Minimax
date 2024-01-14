@@ -4,7 +4,7 @@ Othello
 
 ## Table of Contents
 
-- [Character Controller](#Sudoku)
+- [Othello Minimax Algorithm](#Othello-Minimax-Algorithm)
   - [Table of Contents](#table-of-contents)
   - [About the Project](#about-the-project)
   - [Prerequisites](#prerequisites)
